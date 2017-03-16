@@ -16,7 +16,7 @@ To download this app, clone it or unzip it and then in the root directory in you
 ### Dev server ###
 Once you run npm start, it will start up a dev server. The dev server will be on
 
-```
+```javascript
     > localhost:8080
     
 ```
